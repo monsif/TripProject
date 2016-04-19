@@ -8,6 +8,7 @@
 *.war
 *.ear
 *.classpath
+*.DS_Store
 *.project
 target
 *.eclipse
